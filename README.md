@@ -17,8 +17,6 @@ Repositório dedicado ao desenvimento do projeto da feira tecnológica.
  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#FF4C4C&height=100&section=header&animation=blinking&fontSize=50&fontColor=000000&fontAlignY=40&stroke=#FF9999&strokeWidth=5"/>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Estudante+de+Programação+;Estudante+da+ETEC+MCM+;)](https://git.io/typing-svg)
-
 
  
 
