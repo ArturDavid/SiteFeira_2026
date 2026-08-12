@@ -16,7 +16,7 @@ Repositório dedicado ao desenvimento do projeto da feira tecnológica.
 
 <p> Alexsandro, Artur, Davy, Gustavo Vieira e Henrique </p>
 
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#FF4C4C&height=100&section=header&animation=blinking&fontSize=50&fontColor=000000&fontAlignY=40&stroke=#FF9999&strokeWidth=5"/>
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#0000FF&height=100&section=header&animation=blinking&fontSize=50&fontColor=000000&fontAlignY=40&stroke=#0000FF&strokeWidth=5"/>
 
 
 
