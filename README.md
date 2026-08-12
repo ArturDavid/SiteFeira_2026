@@ -1,4 +1,4 @@
-# SiteFeira_2026
+# Site da Feira Tecnológica 2026
 Repositório dedicado ao desenvimento do projeto da feira tecnológica.
 
 <div align="center">
